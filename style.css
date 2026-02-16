@@ -75,8 +75,8 @@ button:hover {
 /* Envelope */
 .envelope {
   position: relative;
-  width: 350px;
-  height: 220px;
+  width: 400px;
+  height: 400px;
   margin: auto;
   perspective: 1000px;
   display: none;
